@@ -6,7 +6,7 @@ https://archive.org/download/cCloud_20151126/cCloud.mp4
 #EXTINF:0 tvg-name="*Property of cCloudTV.ORG*" tvg-language="English" tvg-country="US" tvg-id="Property of cCloudTV.ORG" tvg-logo="http://media.comicbook.com/2015/09/baneposter2-by-sysmatic-149962.jpg" group-title="Top10",*Property of cCloudTV.ORG* (Top10) (US) (English)
 https://archive.org/download/cCloud_20151126/cCloud.mp4
 
-#EXTINF:0 tvg-name="Welcome to cCloudTV.ORG (Updated 07-14-2020 12:06:19 EST-US) the future of IPTV." tvg-language="English" tvg-country="US" tvg-id="Welcome to cCloudTV.ORG (Updated 07-14-2020 12:06:19 EST-US) the future of IPTV." tvg-logo="http://s30.postimg.cc/7ir30q7i5/12246894_1652474284992079_8160065325735639466_n.jpg" group-title="Announcement",Welcome to cCloudTV.ORG the future of IPTV. (Announcement) (US) (English)
+#EXTINF:0 tvg-name="Welcome to cCloudTV.ORG (Updated 07-14-2020 12:07:16 EST-US) the future of IPTV." tvg-language="English" tvg-country="US" tvg-id="Welcome to cCloudTV.ORG (Updated 07-14-2020 12:07:16 EST-US) the future of IPTV." tvg-logo="http://s30.postimg.cc/7ir30q7i5/12246894_1652474284992079_8160065325735639466_n.jpg" group-title="Announcement",Welcome to cCloudTV.ORG the future of IPTV. (Announcement) (US) (English)
 https://archive.org/download/cCloud_20151126/cCloud.mp4
 
 #EXTINF:0 tvg-name="*Coders needed*" tvg-language="English" tvg-country="US" tvg-id="*Coders needed*" tvg-logo="https://i.imgur.com/X4hjOLT.jpg" group-title="Top10",*Coders needed* (Top10) (US) (English)
@@ -1213,16 +1213,16 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8|Referer
 http://204.107.27.137/live/27.low.stream/playlist.m3u8|Referer=https%3A%2F%2Fwww.livenewson.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="CBC News CaptainMarvel" tvg-language="English" tvg-country="US" tvg-id="CBC News CaptainMarvel" tvg-logo="https://i.imgur.com/EkVttjS.jpg" group-title="News",CBC News CaptainMarvel (News) (US) (English)
-https://1359547862.rsc.cdn77.org/A3lPhTI5OZ0TEHDjh6Tfjw==%2C1594751260/LS-ATL-54548-8/index.m3u8|Referer=https%3A%2F%2Fwww.livenewson.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
+https://1359547862.rsc.cdn77.org/WzqKPrEX0dQdDNCX3p4V0A==%2C1594751357/LS-ATL-54548-8/index.m3u8|Referer=https%3A%2F%2Fwww.livenewson.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="CNBC America CaptainMarvel" tvg-language="English" tvg-country="US" tvg-id="CNBC America CaptainMarvel" tvg-logo="https://i.imgur.com/EkVttjS.jpg" group-title="News",CNBC America CaptainMarvel (News) (US) (English)
-https://1674331492.rsc.cdn77.org/RFq8d7mSMgeAGXx6g52Zng==%2C1594749862/LS-ATL-54548-14/index.m3u8|Referer=https%3A%2F%2Fwww.livenewson.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
+https://1674331492.rsc.cdn77.org/G0hQFeCIjtEXVm0k5THjrQ==%2C1594749958/LS-ATL-54548-14/index.m3u8|Referer=https%3A%2F%2Fwww.livenewson.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="CNBC Europe CaptainMarvel" tvg-language="English" tvg-country="US" tvg-id="CNBC Europe CaptainMarvel" tvg-logo="https://i.imgur.com/EkVttjS.jpg" group-title="News",CNBC Europe CaptainMarvel (News) (US) (English)
 https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8|Referer=https%3A%2F%2Fwww.livenewson.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="Fox Business Network CaptainMarvel" tvg-language="English" tvg-country="US" tvg-id="Fox Business Network CaptainMarvel" tvg-logo="https://i.imgur.com/EkVttjS.jpg" group-title="News",Fox Business Network CaptainMarvel (News) (US) (English)
-https://1329918864.rsc.cdn77.org/lJG8kx9TesTRUs2hUcjw2A==%2C1594747465/ls-54548-1/index.m3u8|Referer=https%3A%2F%2Fwww.livenewson.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
+https://1329918864.rsc.cdn77.org/2iCS0jeJyjO8Klswe16MBQ==%2C1594747563/ls-54548-1/index.m3u8|Referer=https%3A%2F%2Fwww.livenewson.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="MSNBC CaptainMarvel" tvg-language="English" tvg-country="US" tvg-id="MSNBC CaptainMarvel" tvg-logo="https://i.imgur.com/EkVttjS.jpg" group-title="News",MSNBC CaptainMarvel (News) (US) (English)
 https://1420543146.rsc.cdn77.org/6kT84xcb3LfbJ0uTcFNOQA==%2C1594749683/LS-ATL-54548-10/index.m3u8|Referer=https%3A%2F%2Fwww.livenewson.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
